@@ -4,12 +4,12 @@ A simple **GUI-based chatbot** built using Python and Tkinter.
 This chatbot can respond to basic user inputs like greetings, time, date, and more in a clean dark-themed interface.
 🚀 Features
 
-* 💬 Interactive chat interface
-* 🖥️ Built using Tkinter (Python GUI library)
-* ⏰ Shows current time
-* 📅 Displays current date
-* 😊 Handles basic conversations (hi, hello, bye, etc.)
-* 🎨 Dark-themed modern UI
+*  Interactive chat interface
+*  Built using Tkinter (Python GUI library)
+*  Shows current time
+*  Displays current date
+*  Handles basic conversations (hi, hello, bye, etc.)
+*  Dark-themed modern UI
 
 🛠️ Technologies Used
 
@@ -43,17 +43,5 @@ if "hi" in msg:
 It also uses the `datetime` module to fetch real-time date and time.
 
 
-## 📄 License
-
-This project is open-source and free to use.
-
-
-## 👩‍💻 Author
-
-Akanksha Mishra
-
----
-
-⭐ If you like this project, don’t forget to star the repository!
 
 
